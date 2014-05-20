@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+            android:includeInGlobalSearch="true"
+            android:voiceSearchMode="showVoiceSearchButton"
+            android:label="Holo Wikipedia Search"
+            android:hint="Search Wikipedia"
+            android:searchSuggestAuthority="com.focus.FISH_ME_AUTHORITY"
+            android:searchSuggestIntentAction="com.focus.FISH_ME"
+        >
+
+
+
+</searchable>
