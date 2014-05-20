@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GlobalSearchMessages.iml" filepath="$PROJECT_DIR$/GlobalSearchMessages.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GlobalSerachMessages.iml" filepath="$PROJECT_DIR$/GlobalSerachMessages.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
